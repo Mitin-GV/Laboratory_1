@@ -1,6 +1,6 @@
 This simple document
 contains some text
-and a type of picture
+and a type of picture Mwahahaha
       ^                ________________________
      / \               |                      |
      | |               |          #           |
